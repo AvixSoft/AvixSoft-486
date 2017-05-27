@@ -15,8 +15,8 @@ This is an Operating System that is fully ready. It can run old MS-DOS programs 
 
 Build, Mod, Test, and Live in your Metropolis! Build a variety of buildings, and in the end, play as a citizen in your city! Build from January 1900 to the end of time! Change the seasons from summer to winter, day to night, and dawn to dusk in just a click. Connect with your friends through the internet or an LAN network and compete as mayors with rivaling industries. This game is playable on all computers and is a City-Building Simulator. For the demo given to download below, you can only play online but not with other people. You have no access to the mods that come with the game like the Graphics Packs, 3D Insertable Objects, and a JavaScript IDE for modding the game yourself. Also, you do not have the full soudtrack to listen to as if the full version.
 
-[Get the Full Version]
+[Get the Full Version](avixsoft486@gmail.com)
 
-[Download Demo (Windows 64-Bit)]
+[Download Demo (Windows 64-Bit)](https://avixsoft.github.io/AvixSoft-486/vc2ku.zip)
 
 [Play Online](https://avixsoft.github.io/vidcity2000/)
