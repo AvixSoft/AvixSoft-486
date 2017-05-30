@@ -17,6 +17,6 @@ Build, Mod, Test, and Live in your Metropolis! Build a variety of buildings, and
 
 [Get the Full Version](avixsoft486@gmail.com)
 
-[Download Demo (Windows 64-Bit)](https://avixsoft.github.io/AvixSoft-486/vc2ku.zip)
+[Download Demo (Windows 64-Bit)](https://avixsoft.github.io/AvixSoft-486/vc2kwin.zip)
 
 [Play Online](https://avixsoft.github.io/vidcity2000/)
