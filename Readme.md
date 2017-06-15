@@ -14,7 +14,7 @@ This is an Operating System that is fully ready. It can run old MS-DOS programs 
 ## Avix Workdesk
 
 Avix Workdesk is an enhanced version of Avix 486. Unlike its predecessor, Avix Workdesk was built for gaming and 3D programs (including games like Wolfenstein 3D, Doom, and Quake! In the welcome window, you can access a 3D Engine built by Darren Morris called the Xeno Engine. A game you can play is Miner17, a game where you have to collect all the gold possible. Being an advanced GUI, an AXGUI, you can 
-now change the theme of the styles of your windows (W.I.P.). The styles are Classic, Laser, TechnoFeel, and Shell. Now the download includes a software to make a bootable USB called Rufus 2.15. All you do is format a USB with FreeDOS, extract the file AWORK14.ZIP, copy the files onto that USB, restart your computer, boot from the USB, and type ACTIVATE. If you want to run it without booting it, you can use DosBox to do so. Just drag the ACTIVATE.BAT file onto the DosBox Shortcut to boot it.      
+now change the theme of the styles of your windows (W.I.P.). The styles are Classic, Laser, TechnoFeel, and Shell. Now the download includes a software to make a bootable USB called Rufus 2.15. All you do is format a USB with FreeDOS, extract the file AWORK14.ZIP, copy the files onto that USB, restart your computer, boot from the USB, and in the command prompt type ACTIVATE. If you want to run it without booting it, you can use DosBox to do so. Just drag the ACTIVATE.BAT file onto the DosBox Shortcut to boot it.      
 
 [Download Avix Workdesk](https://avixsoft.github.io/AvixSoft-486/AWORK14.zip)
 
