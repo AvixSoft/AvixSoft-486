@@ -18,6 +18,8 @@ now change the theme of the styles of your windows (W.I.P.). The styles are Clas
 
 [Download Avix Workdesk](https://avixsoft.github.io/AvixSoft-486/AWORK14.zip)
 
+[Download IDE CD-ROM Drivers](https://avixsoft.github.io/AvixSoft-486/DRIVERS.zip)
+
 [Download Rufus 2.15](https://avixsoft.github.io/AvixSoft-486/Rufus.exe)
 
 
